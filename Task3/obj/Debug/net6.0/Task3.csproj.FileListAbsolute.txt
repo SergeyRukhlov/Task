@@ -1,0 +1,15 @@
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/bin/Debug/net6.0/Task3
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/bin/Debug/net6.0/Task3.deps.json
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/bin/Debug/net6.0/Task3.runtimeconfig.json
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/bin/Debug/net6.0/Task3.dll
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/bin/Debug/net6.0/Task3.pdb
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/obj/Debug/net6.0/Task3.csproj.AssemblyReference.cache
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/obj/Debug/net6.0/Task3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/obj/Debug/net6.0/Task3.AssemblyInfoInputs.cache
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/obj/Debug/net6.0/Task3.AssemblyInfo.cs
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/obj/Debug/net6.0/Task3.csproj.CoreCompileInputs.cache
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/obj/Debug/net6.0/Task3.dll
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/obj/Debug/net6.0/refint/Task3.dll
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/obj/Debug/net6.0/Task3.pdb
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/obj/Debug/net6.0/Task3.genruntimeconfig.cache
+/Users/Sergey/Documents/Учеба С#/Tasks/Task3/obj/Debug/net6.0/ref/Task3.dll
